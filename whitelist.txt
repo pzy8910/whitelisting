@@ -1,1 +1,2 @@
 EUSNCPMM,permanent
+DWA87DB3,permanent
